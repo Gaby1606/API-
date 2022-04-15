@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+body{
+    font-family: 'Arvo', serif;
+}
+
+.city{
+    font-size: 32px;
+}
+
+.date {
+    font-size: 16px;
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    background-color: #87CEEB;
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+
+    font-size: 100px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+
+}
+
+.weather{
+    font-size: 32px;
+}
+
+.low-high {
+    font-size: 22px;
+}
+
+.comeco{
+    background-color:#B0E0E6; 
+    color:#F8F8FF;
+    height: 25px;   
+}
+
+.card-footer{
+    background-color: #B0E0E6;
+}
+
+.card-body{
+    background-color: #F8F8FF;
+}
